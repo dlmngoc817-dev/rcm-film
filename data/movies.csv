@@ -1,0 +1,51 @@
+movie_id,title,year,genres,keywords,overview
+1,Interstellar,2014,"Sci-Fi,Adventure,Drama",space exploration survival family time,A pilot leaves his family to search distant worlds for a future home for humanity.
+2,The Martian,2015,"Sci-Fi,Adventure,Drama",space survival science isolation rescue,An astronaut stranded on Mars uses science and determination to survive until help can arrive.
+3,Gravity,2013,"Sci-Fi,Thriller",space survival isolation disaster,"After an orbital disaster, an astronaut struggles to return safely to Earth."
+4,Arrival,2016,"Sci-Fi,Drama",aliens language time communication,A linguist studies an alien language while governments struggle to understand unexpected visitors.
+5,Contact,1997,"Sci-Fi,Drama",space science aliens communication,A scientist detects a signal from space and joins a controversial effort to make contact.
+6,Moon,2009,"Sci-Fi,Drama",space isolation identity mystery,A worker nearing the end of a lunar assignment discovers unsettling clues about his identity.
+7,2001: A Space Odyssey,1968,"Sci-Fi,Adventure",space artificial intelligence exploration evolution,A mysterious object connects human origins with a space mission guided by an intelligent computer.
+8,Inception,2010,"Sci-Fi,Action,Thriller",dreams heist memory reality,A specialist who steals secrets from dreams attempts to plant an idea inside a target's mind.
+9,The Matrix,1999,"Sci-Fi,Action",simulation reality rebellion artificial intelligence,A programmer learns that his familiar world conceals a system of machine control.
+10,Blade Runner 2049,2017,"Sci-Fi,Thriller,Drama",artificial intelligence identity memory dystopia,An investigator uncovers a secret that threatens the boundary between humans and manufactured people.
+11,Ex Machina,2014,"Sci-Fi,Thriller",artificial intelligence identity deception isolation,A programmer evaluates an intelligent humanoid in an isolated research facility.
+12,Her,2013,"Sci-Fi,Romance,Drama",artificial intelligence love loneliness relationships,A lonely writer develops an intimate relationship with a conversational operating system.
+13,The Terminator,1984,"Sci-Fi,Action,Thriller",time travel robots survival pursuit,A woman is pursued by a machine sent from the future to prevent a resistance leader's birth.
+14,Back to the Future,1985,"Sci-Fi,Adventure,Comedy",time travel family friendship,A teenager travels into the past and must repair changes that threaten his own existence.
+15,Avengers: Endgame,2019,"Action,Adventure,Sci-Fi",superheroes teamwork time travel sacrifice,Surviving heroes attempt to reverse a devastating loss through an ambitious journey across time.
+16,The Avengers,2012,"Action,Adventure,Sci-Fi",superheroes teamwork aliens invasion,A divided group of heroes must work together to stop an alien invasion.
+17,Iron Man,2008,"Action,Adventure,Sci-Fi",superheroes technology redemption robots,An arms manufacturer builds an armored suit and reconsiders the consequences of his inventions.
+18,Guardians of the Galaxy,2014,"Action,Adventure,Sci-Fi,Comedy",space teamwork friendship outlaws,A mismatched group of outlaws joins forces to protect a powerful object from a dangerous enemy.
+19,The Dark Knight,2008,"Action,Crime,Thriller",superheroes crime chaos morality,A masked protector confronts a criminal who uses chaos to test a city's moral limits.
+20,Spider-Man: Into the Spider-Verse,2018,"Animation,Action,Adventure",superheroes multiverse identity friendship,A young hero meets alternate versions of Spider-Man while learning to use his own abilities.
+21,Toy Story,1995,"Animation,Adventure,Comedy",toys friendship jealousy teamwork,A cowboy toy feels threatened by a new arrival before an unexpected journey forces them to cooperate.
+22,Finding Nemo,2003,"Animation,Adventure,Comedy",ocean family rescue friendship,An anxious fish crosses the ocean with an unusual companion to find his missing son.
+23,WALL-E,2008,"Animation,Adventure,Sci-Fi",robots space environment love,A solitary waste-collecting robot follows a visitor into space and helps reconnect humanity with Earth.
+24,Inside Out,2015,"Animation,Comedy,Drama",emotions family childhood identity,Personified emotions struggle to guide a child through a difficult move to a new city.
+25,Coco,2017,"Animation,Adventure,Fantasy",music family memory afterlife,An aspiring musician enters the world of the dead and uncovers a hidden family history.
+26,Spirited Away,2001,"Animation,Adventure,Fantasy",magic spirits family courage,A child must navigate a strange spirit world to rescue her parents.
+27,Howl's Moving Castle,2004,"Animation,Fantasy,Romance",magic war love transformation,A young woman changed by a curse finds shelter in a wizard's wandering castle.
+28,Your Name,2016,"Animation,Fantasy,Romance",time identity love connection,Two teenagers linked by mysterious body swaps try to find each other across distance and time.
+29,La La Land,2016,"Romance,Drama,Music",music dreams ambition love,An actor and a jazz musician pursue creative ambitions while trying to sustain their relationship.
+30,Whiplash,2014,"Drama,Music",music ambition mentorship obsession,A young drummer submits to punishing instruction in his pursuit of musical excellence.
+31,The Shawshank Redemption,1994,Drama,prison friendship hope injustice,A wrongly convicted man builds a friendship and maintains hope during years in prison.
+32,The Green Mile,1999,"Drama,Fantasy",prison injustice compassion supernatural,A prison guard encounters a condemned man with extraordinary healing abilities.
+33,Forrest Gump,1994,"Drama,Romance",life friendship love history,A kind-hearted man moves through major historical events while holding onto a lifelong attachment.
+34,The Pursuit of Happyness,2006,Drama,family poverty ambition perseverance,A father balances unstable housing and parenting while competing for a professional opportunity.
+35,Good Will Hunting,1997,Drama,mathematics friendship mentorship identity,A gifted young janitor struggles to accept help and imagine a different future.
+36,The Social Network,2010,Drama,technology ambition friendship conflict,"The creation of a social platform leads to disputes over ownership, loyalty, and recognition."
+37,Knives Out,2019,"Mystery,Crime,Comedy",detective family inheritance deception,A detective investigates a wealthy writer's death amid a family's conflicting accounts.
+38,Se7en,1995,"Crime,Mystery,Thriller",detective crime investigation morality,Two detectives pursue a killer whose crimes follow a disturbing symbolic pattern.
+39,Shutter Island,2010,"Mystery,Thriller",investigation identity memory isolation,A marshal investigating a disappearance at an island institution confronts troubling contradictions.
+40,The Prestige,2006,"Mystery,Drama,Thriller",rivalry obsession deception magic,Two stage magicians turn their professional rivalry into an increasingly destructive contest.
+41,Get Out,2017,"Horror,Mystery,Thriller",racism deception isolation identity,A visit to a partner's family reveals increasingly disturbing behavior and hidden intentions.
+42,A Quiet Place,2018,"Horror,Sci-Fi,Thriller",survival family monsters silence,A family survives in a world where dangerous creatures hunt by sound.
+43,The Conjuring,2013,"Horror,Mystery",haunting family supernatural investigation,Paranormal investigators try to help a family facing frightening events in their farmhouse.
+44,Mad Max: Fury Road,2015,"Action,Adventure,Thriller",dystopia survival escape rebellion,Fugitives cross a harsh wasteland while pursued by a ruler determined to reclaim control.
+45,John Wick,2014,"Action,Crime,Thriller",revenge assassins crime pursuit,A retired assassin returns to a violent underworld after a personal loss.
+46,The Lord of the Rings: The Fellowship of the Ring,2001,"Fantasy,Adventure",quest friendship magic teamwork,A small fellowship begins a dangerous journey to destroy a powerful ring.
+47,Harry Potter and the Philosopher's Stone,2001,"Fantasy,Adventure",magic school friendship mystery,A child discovers a hidden magical world and investigates a secret at his new school.
+48,Jurassic Park,1993,"Sci-Fi,Adventure,Thriller",dinosaurs science survival disaster,Visitors to a park of recreated dinosaurs struggle to escape when its control systems fail.
+49,Titanic,1997,"Romance,Drama",love class disaster survival,Two passengers from different social backgrounds fall in love aboard a doomed ocean liner.
+50,Parasite,2019,"Drama,Thriller",class family deception poverty,"A struggling family gains access to a wealthy household, setting off escalating conflicts."

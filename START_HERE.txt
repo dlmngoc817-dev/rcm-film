@@ -1,0 +1,17 @@
+RCM FILM - START HERE
+
+1. Extract this ZIP completely.
+2. Install Python 3.11 or 3.12 and enable Add Python to PATH.
+3. Double-click start.bat (Windows).
+4. Wait for first-time dependency installation (internet required).
+5. Open http://localhost:8501 if the browser does not open automatically.
+6. Choose a favorite film, then click Find my next film.
+
+Keep the terminal open while using the app. Press Ctrl+C to stop.
+
+README.md contains the full setup, algorithm explanation, and GitHub upload steps.
+Use your own GitHub repository. The project has not been uploaded to an account.
+You should upload the extracted source files, not only this ZIP.
+
+All interface text and project documentation are in English.
+No API key or GPU is required. The included catalog has 50 demo films.
